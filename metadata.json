@@ -1,0 +1,8 @@
+{
+  "name": "New Phone Mobile Store",
+  "description": "A premium digital store specializing in mobile maintenance, programming services, and digital currencies with integrated AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
