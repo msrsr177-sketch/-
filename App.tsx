@@ -6,8 +6,9 @@ import {
   Facebook, PlayCircle, Smartphone, Cpu, ShieldCheck, Sparkles, Zap, Package, ShoppingBag,
   Bell, X, Info, TrendingDown, Star, Cloud, Calendar, Image as ImageIcon, Send, Clock, AlertTriangle, ChevronLeft, Users
 } from 'lucide-react';
-import { AppMenu, DigitalProduct } from './types';
-import { DIGITAL_PRODUCTS } from './constants';
+import { AppMenu, DigitalProduct } from './services/types';
+import { DIGITAL_PRODUCTS } from './services/constants';
+
 import ProductCard from './components/ProductCard';
 import ProductDetail from './components/ProductDetail';
 import ChatWidget from './components/ChatWidget';
